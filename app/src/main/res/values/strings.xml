@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="tic_tac_toe">Tic-Tac-Toe!</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="title_button_hint">"Klik hier om te beginnen"</string>
+    <string name="title_hype_text">"Wow, het is boter, kaas en eieren!"</string>
+</resources>
